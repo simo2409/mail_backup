@@ -2,7 +2,7 @@
 # mail_backup config file
 
 # Recipient email
-recipient_email: simobg@gmail.com
+recipient_email: ''
 
 # MySQL auth
 mysql_user: ''
