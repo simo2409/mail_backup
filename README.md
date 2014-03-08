@@ -13,7 +13,7 @@ This script is used to backup a development server, it was not intended to be us
 
 ## Information ##
 - Compression format is tag.gz
-- Backup filename uses this format: [mysql_db_name]_[date_time_with_format_%Y%m%d%H%M].tar.gz
+- Backup filename example: foodb_201403080125.tar.gz
 - This script sends email to 1 only recipient
 - This script backups only 1 database (if you want to dump many database you can fork it and change the dump command)
 - It works (by design) only with a mysql server
