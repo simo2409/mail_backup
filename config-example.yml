@@ -1,5 +1,5 @@
 ---
-# mail_backup config file
+# mail_backup  config file
 
 # Recipient email
 recipient_email: ''
