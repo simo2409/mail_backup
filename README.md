@@ -1,6 +1,7 @@
 mail_backup
 ===========
 
+
 A simple ruby script to send mysql backup (compressed) to an email address
 
 ## ATTENTION ##
